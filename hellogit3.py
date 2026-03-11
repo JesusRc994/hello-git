@@ -1,2 +1,1 @@
-import sys
-print ("Hello Git 3 vlogin")
+print ("Hello Git 3 v3")
